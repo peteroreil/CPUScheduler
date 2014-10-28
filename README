@@ -1,0 +1,8 @@
+An implementation of HeapSort in java to sort a process job queue from order of highest to 
+lowest order of priority.
+
+This sort is then further extended to implement a max-priority queue based on the priorities of a process.
+
+There is also a further implementation of a Producer that can generate y number of random running processes between 
+0 and 60 seconds of a random class priority, a ready queue, and a scheduler (consumer) that processes the jobs in a class
+first, then LRU order untel they are complete and uses a 0.1 second epoch for time-based pre-emptive scheduling.
