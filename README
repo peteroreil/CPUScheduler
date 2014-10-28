@@ -1,3 +1,5 @@
+
+
 An implementation of HeapSort in java to sort a process job queue from order of highest to 
 lowest order of priority.
 
@@ -9,6 +11,6 @@ first, then LRU order untill they are complete and uses a 0.1 second epoch for t
 
 
 
-
+Please see doc/documentation.pdf for more info
 
 
